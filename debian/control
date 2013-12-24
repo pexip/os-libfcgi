@@ -1,11 +1,13 @@
 Source: libfcgi
 Section: libs
 Priority: optional
-Maintainer: Tatsuki Sugiura <sugi@nemui.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Tatsuki Sugiura <sugi@nemui.org>
 Build-Depends: debhelper (>> 7.0.0), quilt
 Standards-Version: 3.8.3
-Uploaders: Taku YASUI <tach@debian.or.jp>
+XSBC-Pexip-Original-Uploaders: Taku YASUI <tach@debian.or.jp>
 Homepage: http://www.fastcgi.com/drupal/
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: libfcgi-dev
 Section: libdevel
